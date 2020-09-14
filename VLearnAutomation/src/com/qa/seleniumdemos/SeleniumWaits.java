@@ -21,7 +21,7 @@ public class SeleniumWaits {
 		driver = new ChromeDriver(); //launch chrome
 		
 //		dynamicWaitImplicit();
-//		staticWait();
+		staticWait();
 //		dynamicWaitExplicit();
 //		dynamicWaitFluent();
 		
